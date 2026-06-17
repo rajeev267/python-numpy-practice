@@ -1,0 +1,45 @@
+
+Q1:Create a 6x6 NumPy array with values from 0 to 35.
+
+Extract all elements greater than 12 and less than 24.
+
+Then calculate the sum of those elements.
+
+Q2:Create a 4x5 array with random integers.
+
+Find the maximum value in each row.
+
+Then calculate the average of those maximum values.
+Q3:
+Create a 3x3 matrix and compute its transpose.
+
+Then calculate the dot product of the original matrix and its transpose.
+
+4:Create a 1D array with 25 numbers.
+
+Reshape it into a 5x5 matrix.
+
+Set all values except the diagonal to 0.
+Q5:
+Create a 10x10 array with values from 1 to 100.
+
+Split it into two arrays:
+
+1. One with all even numbers
+2. One with all odd numbers
+
+Q6:
+Given two arrays:
+
+a = [1, 2, 3, 4, 5]  
+b = [3, 4, 5, 6, 7]
+
+Find the common elements between them.
+
+Then find elements that are only in a (but not in b).
+
+Q7:
+Create an array of 20 random float values between 0 and 1.
+
+Normalize the array so that the maximum becomes 1 and the minimum becomes 0.
+
